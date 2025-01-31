@@ -4,7 +4,7 @@ pip-chill
 uvicorn
 gunicorn
 
-openai
+openai==0.28.0
 httpx
 langchain
 tavily-python
