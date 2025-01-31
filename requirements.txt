@@ -3,3 +3,8 @@ aiologger[aiofiles]
 pip-chill
 uvicorn
 gunicorn
+
+openai
+httpx
+langchain
+tavily-python
